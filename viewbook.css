@@ -1,0 +1,21 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    border-style: border-box;
+}
+
+table, td, tr
+{
+    border: 2px solid rgb(255, 255, 255);
+}
+
+.container
+{
+    background: #c3c3c3f3;
+    width: 100%;
+    height: auto;
+    align-items: center;
+    border: 2px solid red;
+}
